@@ -1,0 +1,4 @@
+前端访问：http://localhost:8080/phyling_web/
+后端访问：http://localhost:8080/phyling_web/fhadmin/login
+账号：admin
+密码：1
